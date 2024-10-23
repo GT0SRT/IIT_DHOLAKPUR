@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/iit_dholakpur/static/css/main.566a007c.css",
-    "main.js": "/iit_dholakpur/static/js/main.49b28967.js",
+    "main.css": "/iit_dholakpur/static/css/main.dd384e69.css",
+    "main.js": "/iit_dholakpur/static/js/main.8c9df0d5.js",
     "static/media/Hero.jpg": "/iit_dholakpur/static/media/Hero.21a455322dae987466f9.jpg",
     "index.html": "/iit_dholakpur/index.html",
-    "main.566a007c.css.map": "/iit_dholakpur/static/css/main.566a007c.css.map",
-    "main.49b28967.js.map": "/iit_dholakpur/static/js/main.49b28967.js.map"
+    "main.dd384e69.css.map": "/iit_dholakpur/static/css/main.dd384e69.css.map",
+    "main.8c9df0d5.js.map": "/iit_dholakpur/static/js/main.8c9df0d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.566a007c.css",
-    "static/js/main.49b28967.js"
+    "static/css/main.dd384e69.css",
+    "static/js/main.8c9df0d5.js"
   ]
 }
