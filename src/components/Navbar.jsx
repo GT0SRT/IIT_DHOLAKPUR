@@ -50,7 +50,7 @@ const Navbar = () => {
         <header className='p-[15px] bg-transparent header'>
             <div className='max-w-[1200px] mx-auto flex items-center'>
                 <div className='w-[100px]'>
-                    <img src="../images/logo.jpg" className='w-[60px] rounded-[50%] hover:scale-125' alt='' />
+                    <img src="https://pbs.twimg.com/profile_images/1376144020489969665/GncmIqby_400x400.jpg" className='w-[60px] rounded-[50%] hover:scale-125' alt='' />
                 </div>
                 <div>
                 </div>
