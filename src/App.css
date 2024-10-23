@@ -1,0 +1,67 @@
+body{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.App-bg {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url('./images/Hero.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0) rotate(90deg);
+    }
+    50% {
+      transform: translateY(10px) rotate(90deg);
+    }
+  }
+  
+  .bounce-animation {
+    animation: bounce 1s infinite;
+  }
+
+
+.vmtable{
+  display: flex;
+}
+
+.vmtable .one{
+  width: 50%;
+}
+
+@media(max-width: 1200px) {
+  .vmtable{
+    display: flex;
+    flex-direction: column;
+  }
+  
+.vmtable .one{
+  width: 100%;
+}
+}
+
+.menubar{
+  display: none;
+}
+
+.close {
+  display: none;
+}
+
+.hero{
+  height: 100vh;
+}
+
+@media(max-width: 800px){
+  .hero{
+    height: 60vh;
+  }
+}

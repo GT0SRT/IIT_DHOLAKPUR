@@ -1,0 +1,16 @@
+
+.menu-links {
+    display: none;
+}
+.menu{
+    display: flex;
+}
+
+@media(max-width: 1300px){
+    .menu-links {
+        display: flex;
+    }
+    .menu{
+        display: none;
+    }
+}
