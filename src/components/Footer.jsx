@@ -35,7 +35,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row gap-5 pb-5 pt-7 mx-5 border-b border-black">
             <div className="mt-3 flex flex-col items-center md:items-start">
                 <img 
-                    src='../images/logo.jpg' 
+                    src='https://pbs.twimg.com/profile_images/1376144020489969665/GncmIqby_400x400.jpg' 
                     alt='Devoic Logo' 
                     className='w-20 h-20 md:w-24 md:h-24'
                 />
