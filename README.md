@@ -1,4 +1,4 @@
-# IIT DHOLAKPUR`
+# IIT DHOLAKPUR
 ## Educational Institution React App
 
 
